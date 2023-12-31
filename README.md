@@ -1,7 +1,4 @@
-### Hi there 👋
 
-<!--
-**emmakara4/emmakara4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Emmanouil Karamanolis</h1>
 <h3 align="center">A passionate Electrical & Computer Engineer</h3>
 
