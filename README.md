@@ -1,4 +1,4 @@
-
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.tumblr.com/valenberg/142420848259/animated-banner-artwork-for-the-great-rolly))]
 <h1 align="center">Hi 👋, I'm Emmanouil Karamanolis</h1>
 <h3 align="center">A passionate Electrical & Computer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif"
