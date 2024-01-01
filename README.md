@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Emmanouil Karamanolis</h1>
 <h3 align="center">A passionate Electrical & Computer Engineer</h3>
+img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif"
 
 - 📫 How to reach me **emmakara1992@gmail.com**
 
